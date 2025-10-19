@@ -1,5 +1,5 @@
 let listaNumeroSorteados = []
-let i = 10;
+let i = 1000;
 let numeroAleatorio = gerarNumeroAleatorio();
 let tentavivas = 1;
 
@@ -9,7 +9,7 @@ function substituir_texto(tag,texto){
 };
 
 function exibirMensagemInicial() {
-    substituir_texto("p","Escolha um numero de 1 a 10");
+    substituir_texto("p","Escolha um numero de 1 a 1000");
     substituir_texto("h1","Jogo do numero secreto");
 }
 
