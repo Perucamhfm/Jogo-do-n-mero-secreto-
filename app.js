@@ -1,5 +1,5 @@
 let listaNumeroSorteados = []
-let i = 50;
+let i = 10;
 let numeroAleatorio = gerarNumeroAleatorio();
 let tentavivas = 1;
 
